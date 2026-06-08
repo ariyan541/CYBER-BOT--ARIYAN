@@ -17,11 +17,9 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "CYBER BOT ARIYAN",
-    "PREFIX": "/",
+    "PREFIX": "+",
     "ADMINBOT": [
         "61589274706671",
-        "",
-        ""
     ],
     "NDH": [
         "100000478146113"
